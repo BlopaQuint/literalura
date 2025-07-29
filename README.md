@@ -1,4 +1,4 @@
-# 📚 Literatura API
+# 📚 Literalura API
 
 Este projeto foi desenvolvido como parte da **minha especialização Back-End TECH FOUNDATION** do programa **ONE - Oracle Next Education**, uma iniciativa educacional em parceria com a Alura e a Oracle que visa formar desenvolvedores completos e preparados para o mercado.
 

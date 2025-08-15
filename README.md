@@ -1,6 +1,6 @@
 # 📚 Literalura API
 
-Este projeto foi desenvolvido como parte da **minha especialização Back-End TECH FOUNDATION** do programa **ONE - Oracle Next Education**, uma iniciativa educacional em parceria com a Alura e a Oracle que visa formar desenvolvedores completos e preparados para o mercado.
+Este projeto foi desenvolvido como parte da **minha especialização Back-End TECH FOUNDATION** do programa **ONE - Oracle Next Education**, uma iniciativa educacional **Oracle** em parceria com a **Alura**, que visa formar desenvolvedores completos e preparados para o mercado.
 
 ---
 
@@ -29,7 +29,7 @@ O **Projeto Gutenberg**, fundado em 1971 por Michael S. Hart, é considerado a *
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Java 21+**
+- **Java 21**
 - **Spring Boot**
 - **Maven**
 - **JPA / Hibernate + JPQL**
